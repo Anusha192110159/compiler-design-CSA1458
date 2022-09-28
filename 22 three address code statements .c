@@ -1,4 +1,4 @@
-[21:33, 9/27/2022] ANUSHA ROYAL: #include<stdio.h>
+ #include<stdio.h>
 
 #include<conio.h>
 
